@@ -1,4 +1,4 @@
-Quer rodar esse codigo na sua maquina ? é só baixar o  arquivo e abrir na IDE MARS
+Want to run this code on your machine? Just download the file and open it in the MARS IDE.
 
 Windows: http://courses.missouristate.edu/kenvollmar/mars/
 
